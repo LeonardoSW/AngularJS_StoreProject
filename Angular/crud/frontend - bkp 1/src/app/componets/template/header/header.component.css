@@ -1,0 +1,17 @@
+.header{
+    display: flex;
+    align-items: center;
+    background-color:#FFAEC9;
+}
+.header a {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+}
+.header .logo{
+    max-height: 32px;
+}
+.header .title-group{
+    padding-left: 40px;
+}
+
